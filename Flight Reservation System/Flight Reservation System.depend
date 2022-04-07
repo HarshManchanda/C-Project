@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1643836412 source:e:\c++ project\flight reservation system\main.cpp
+	<fstream>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	<ctype.h>
+	<dos.h>
+	<windows.h>
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<cstdio>
+
